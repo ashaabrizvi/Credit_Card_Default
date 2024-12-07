@@ -1,4 +1,4 @@
-# Credit Card Clients Default Web App
+# Credit Card Clients Default Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ashaabrizvi/credit_card_clients_default/creditcard.py)
 
 Have a look at it -
 
